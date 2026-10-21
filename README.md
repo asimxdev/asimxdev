@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=240&section=header&text=Asim%20Khan&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Flutter%20Developer%20%E2%80%A2%20Cross-Platform%20Mobile%20Apps&descAlignY=58&descSize=18" width="100%" alt="Asim Khan"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Hi+%F0%9F%91%8B+I'm+Asim+Khan;Flutter+%26+Dart+Developer+%F0%9F%93%B1;Firebase+%7C+BLoC+%7C+Stacked+Architecture;Real-time+Calling+%26+Payments+%F0%9F%92%B3;Let's+build+something+great+%F0%9F%9A%80" alt="typing"/>
-</a>
+<img src="assets/header.svg" width="100%" alt="Asim Khan, Flutter Developer"/>
 
 <br/>
 
