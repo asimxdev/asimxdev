@@ -1,5 +1,5 @@
 <!-- 
-  SETUP: Find & Replace  YOUR_GITHUB_USERNAME  with your real GitHub username (2 places per widget).
+  SETUP: Find & Replace  asimxdev  with your real GitHub username (2 places per widget).
   Create a repo named exactly like your username, make it Public, and put this file in it as README.md
 -->
 
@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=asimxdev&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="views"/>
 <img src="https://img.shields.io/badge/Experience-2%2B%20Years-0ea5e9?style=for-the-badge&logo=flutter&logoColor=white" alt="experience"/>
 <img src="https://img.shields.io/badge/Based%20in-Peshawar%2C%20Pakistan-16a34a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/>
 
@@ -227,16 +227,16 @@ Final-year project. Improved UI design and code maintainability through refactor
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=asimxdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimxdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=asimxdev&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asimxdev&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="activity graph" width="100%"/>
 
 </div>
 
@@ -246,7 +246,7 @@ OPTIONAL: Animated contribution snake
 2. Run it once, then uncomment the block below.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/asimxdev/asimxdev/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </div>
 -->
 
