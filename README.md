@@ -246,7 +246,7 @@ Check my pinned repositories for open-source work.<br/><br/>
 
 </div>
 
-<!--
+
 OPTIONAL SNAKE: add .github/workflows/snake.yml (included), run it once from the Actions tab,
 then delete these comment markers.
 
@@ -256,7 +256,7 @@ then delete these comment markers.
     <img alt="snake" src="https://raw.githubusercontent.com/asimxdev/asimxdev/output/github-snake.svg">
   </picture>
 </div>
--->
+
 
 ## 🎓 Education & Certifications
 
