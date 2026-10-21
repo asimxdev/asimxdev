@@ -1,67 +1,71 @@
-<!-- 
-  SETUP: Find & Replace  asimxdev  with your real GitHub username (2 places per widget).
-  Create a repo named exactly like your username, make it Public, and put this file in it as README.md
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Asim%20Khan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%E2%80%A2%20Cross-Platform%20Mobile%20Apps&descAlignY=60&descSize=18" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=240&section=header&text=Asim%20Khan&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Flutter%20Developer%20%E2%80%A2%20Cross-Platform%20Mobile%20Apps&descAlignY=58&descSize=18" width="100%" alt="Asim Khan"/>
+
+<!-- Profile photo: uses your GitHub avatar automatically (circular). -->
+<img src="https://wsrv.nl/?url=https://github.com/asimxdev.png&w=170&h=170&fit=cover&mask=circle" width="150" alt="Asim Khan"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Asim+Khan;Flutter+%26+Dart+Developer+%F0%9F%93%B1;Building+scalable+cross-platform+apps;Firebase+%7C+BLoC+%7C+Stacked+Architecture;Real-time+Calling+%26+Payments+Integration+%F0%9F%92%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Hi+%F0%9F%91%8B+I'm+Asim+Khan;Flutter+%26+Dart+Developer+%F0%9F%93%B1;Firebase+%7C+BLoC+%7C+Stacked+Architecture;Real-time+Calling+%26+Payments+%F0%9F%92%B3;Let's+build+something+great+%F0%9F%9A%80" alt="typing"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=asimxdev&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="views"/>
-<img src="https://img.shields.io/badge/Experience-2%2B%20Years-0ea5e9?style=for-the-badge&logo=flutter&logoColor=white" alt="experience"/>
-<img src="https://img.shields.io/badge/Based%20in-Peshawar%2C%20Pakistan-16a34a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/2%2B%20Years-Experience-8b5cf6?style=for-the-badge"/>
 
 <br/><br/>
 
-<a href="mailto:asimxdev@gmail.com"><img src="https://img.shields.io/badge/Email-asimxdev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-Visit-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/></a>
+<a href="mailto:asimxdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+<a href="https://github.com/asimxdev"><img src="https://img.shields.io/github/followers/asimxdev?label=Followers&style=flat-square&logo=github&color=181717"/></a>
+<img src="https://komarev.com/ghpvc/?username=asimxdev&label=Views&color=6366f1&style=flat-square"/>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:8b5cf6&height=2" width="100%"/>
 
-## 👨‍💻 About Me
+## ✨ About Me
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ```dart
 class AsimKhan extends FlutterDeveloper {
-  final String location   = "Peshawar, KPK, Pakistan 🇵🇰";
-  final String role       = "Flutter Developer @ Apptex Software Solutions";
-  final int    experience = 2; // years+
-
-  final List<String> languages = ["English", "Urdu", "Pashto"];
-
-  final List<String> focus = [
-    "Responsive cross-platform mobile apps",
-    "Clean, scalable & maintainable architecture",
-    "Real-time communication (WebSockets, Audio/Video Calls)",
-    "Performance optimization & debugging",
-  ];
+  final location = "Peshawar, Pakistan 🇵🇰";
+  final role     = "Flutter Developer";
+  final company  = "Apptex Software Solutions";
+  final languages = ["English", "Urdu", "Pashto"];
 
   @override
-  String get motto => "Write clean code. Ship great experiences.";
+  String get motto =>
+      "Write clean code. Ship great experiences.";
 }
 ```
 
-- 🔭 Currently building cross-platform apps with **Flutter & Dart**
-- ⚡ Experienced in **Firebase SDKs**, **payment gateways (Stripe)**, **BLoC** and **Stacked Architecture**
-- 📡 Built features using **WebSockets**, **audio/video calling** and **REST API** integration
-- 🎓 B.S. Computer Science, University of FATA — **CGPA 3.86 / 4.00**
-- 📫 Open to collaborations and new opportunities
+</td>
+<td width="45%" valign="top">
 
-<br/>
+🔭 Building cross-platform apps with **Flutter & Dart**<br/>
+⚡ **Firebase**, **Stripe**, **BLoC**, **Stacked**<br/>
+📡 **WebSockets**, **audio / video calling**<br/>
+🧪 Debugging, QA & performance tuning<br/>
+🎓 B.S. CS — **CGPA 3.86 / 4.00**<br/>
+📫 Open to new opportunities
 
-## 🛠️ Tech Stack
+</td>
+</tr>
+</table>
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,figma,git,github,androidstudio,vscode,postman&perline=10" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,androidstudio,vscode,figma,postman,git,github&perline=10" alt="skills"/>
 
 </div>
 
@@ -71,32 +75,32 @@ class AsimKhan extends FlutterDeveloper {
 <tr>
 <td width="50%" valign="top">
 
-### 📱 Mobile & Languages
+**📱 Mobile**<br/>
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java_(Basics)-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### 🧠 State Management & Architecture
+**🧠 State & Architecture**<br/>
 ![BLoC](https://img.shields.io/badge/BLoC-0553B1?style=flat-square&logo=flutter&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-00B8D4?style=flat-square&logo=flutter&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-6C63FF?style=flat-square&logo=flutter&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=flat-square)
-![Stacked](https://img.shields.io/badge/Stacked_Architecture-111827?style=flat-square)
+![Stacked](https://img.shields.io/badge/Stacked-111827?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔥 Backend & Services
+**🔥 Backend**<br/>
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FF9100?style=flat-square&logo=firebase&logoColor=white)
-![Auth](https://img.shields.io/badge/Firebase_Auth-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Auth](https://img.shields.io/badge/Auth-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Functions](https://img.shields.io/badge/Cloud_Functions-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-### 🔌 Integrations
+**🔌 Integrations**<br/>
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Push](https://img.shields.io/badge/Push_Notifications-FF4081?style=flat-square&logo=firebase&logoColor=white)
 
@@ -104,173 +108,171 @@ class AsimKhan extends FlutterDeveloper {
 </tr>
 </table>
 
-<br/>
-
 ## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🌍 TourVista
-AI-powered travel app with landmark scanning, historical info, nearby-place discovery, interactive maps, personalized tour planning, travel memories and AI chat.
-
-`Flutter` `AI` `Maps`
-
-</td>
-<td width="50%" valign="top">
-
-### 📸 Photos by Bugs
-Photo-selling app that organizes collections with Google Drive, shows blurred & watermarked previews and unlocks full-resolution photos after purchase.
-
-`Flutter` `Google Drive` `Payments`
+#### 🌍 TourVista
+AI travel app: landmark scanning, history, nearby places, maps, tour planning & AI chat.<br/><br/>
+![AI](https://img.shields.io/badge/AI-8b5cf6?style=flat-square) ![Maps](https://img.shields.io/badge/Maps-0ea5e9?style=flat-square)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 💪 Musculo
-Fitness app built with Flutter & Firebase. Supports user and creator roles, workout purchases, favorites, and content creation and sales.
-
-`Flutter` `Firebase` `Payments`
+#### 📸 Photos by Bugs
+Photo-selling app with Google Drive collections, watermarked previews & unlock-on-purchase.<br/><br/>
+![Payments](https://img.shields.io/badge/Payments-635BFF?style=flat-square) ![Drive](https://img.shields.io/badge/Google_Drive-34A853?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🤖 Riter AI
-AI content generator using the OpenAI API for LinkedIn posts, client proposals, blog posts, Fiverr gigs and more.
-
-`Flutter` `OpenAI API`
+#### 💪 Musculo
+Fitness app (Flutter + Firebase) with user & creator roles, workout purchases and favorites.<br/><br/>
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&labelColor=555) ![Payments](https://img.shields.io/badge/Payments-635BFF?style=flat-square)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🧘 Wilmarwell
-Healthcare & wellness app offering skincare, massage therapy, fitness education and appointment booking.
-
-`Flutter` `Booking`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔥 Khan LPG Gas
-Gas cylinder ordering app with pickup & delivery services and map-based order tracking.
-
-`Flutter` `Maps` `Tracking`
+#### 🤖 Riter AI
+OpenAI-powered generator for LinkedIn posts, proposals, blogs and Fiverr gigs.<br/><br/>
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🕊️ Penitans
-Marketplace-style app where practitioners offer services and seekers accept offers and access services online.
-
-`Flutter` `Services`
+#### 🧘 Wilmarwell
+Wellness app: skincare, massage therapy, fitness education & appointment booking.<br/><br/>
+![Booking](https://img.shields.io/badge/Booking-0ea5e9?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🕌 Allah Knows
-Women-focused Islamic wellness app for emotional reflection, spiritual guidance and mindfulness.
-
-`Flutter` `Wellness`
+#### 🔥 Khan LPG Gas
+Gas cylinder ordering with pickup, delivery and map-based order tracking.<br/><br/>
+![Maps](https://img.shields.io/badge/Maps-0ea5e9?style=flat-square) ![Tracking](https://img.shields.io/badge/Tracking-16a34a?style=flat-square)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### ✈️ Jet Picks
-Travel-based delivery app connecting travelers with people who need items delivered internationally. *(UI design)*
-
-`Flutter` `UI/UX`
+#### 🕊️ Penitans
+Practitioners offer services, seekers accept offers and access them online.<br/><br/>
+![Marketplace](https://img.shields.io/badge/Marketplace-8b5cf6?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🛡️ Armor Up
-Gamified spiritual-support app with Bible-based and AI-powered guidance through interactive levels. *(UI development)*
+#### 🕌 Allah Knows
+Women-focused Islamic wellness app for reflection, guidance and mindfulness.<br/><br/>
+![Wellness](https://img.shields.io/badge/Wellness-16a34a?style=flat-square)
 
-`Flutter` `Gamification` `AI`
+</td>
+<td width="33%" valign="top">
+
+#### 🙏 PrayPal
+Final-year project: improved UI and code maintainability via refactoring.<br/><br/>
+![Refactor](https://img.shields.io/badge/UI_%2B_Refactor-0ea5e9?style=flat-square)
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="33%" valign="top">
 
-### 🙏 PrayPal — Prayer Time Tracking
-Final-year project. Improved UI design and code maintainability through refactoring.
+#### ✈️ Jet Picks
+Travel-based delivery app connecting travelers with senders. *(UI design)*<br/><br/>
+![UI](https://img.shields.io/badge/UI%2FUX-FF4081?style=flat-square)
 
-`Flutter` `Dart`
+</td>
+<td width="33%" valign="top">
+
+#### 🛡️ Armor Up
+Gamified spiritual-support app with Bible-based and AI guidance. *(UI)*<br/><br/>
+![Gamified](https://img.shields.io/badge/Gamified-f59e0b?style=flat-square) ![AI](https://img.shields.io/badge/AI-8b5cf6?style=flat-square)
+
+</td>
+<td width="33%" valign="top">
+
+#### 📦 More coming soon
+Check my pinned repositories for open-source work.<br/><br/>
+![Soon](https://img.shields.io/badge/Stay_Tuned-555?style=flat-square)
 
 </td>
 </tr>
 </table>
 
-<br/>
-
 ## 💼 Experience
 
-| Period | Role | Company |
+| 📅 Period | 💻 Role | 🏢 Company |
 |:--|:--|:--|
 | **Dec 2025 – Present** | Flutter Developer | Apptex Software Solutions |
 | **Apr 2025 – Dec 2025** | Flutter Developer | FS Programmers |
 | **Jan 2024 – Apr 2025** | Flutter Trainee | ProTech Code Park (PTCP) |
 
-<br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=asimxdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimxdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=asimxdev&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
+<!-- Always-on badges (shields.io is reliable) -->
+<img src="https://img.shields.io/github/followers/asimxdev?style=for-the-badge&logo=github&color=0ea5e9&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/stars/asimxdev?style=for-the-badge&logo=github&color=8b5cf6&labelColor=0d1117"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asimxdev&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="activity graph" width="100%"/>
+<!-- Auto dark / light mode cards -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=asimxdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&rank_icon=github">
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=asimxdev&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=asimxdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8">
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimxdev&layout=compact&theme=default&hide_border=true&langs_count=8"/>
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=asimxdev&theme=tokyonight&hide_border=true&background=0D1117">
+  <img alt="Streak" src="https://streak-stats.demolab.com?user=asimxdev&theme=default&hide_border=true"/>
+</picture>
+
+<br/>
+
+<img alt="Contribution chart" width="100%" src="https://ghchart.rshah.org/0ea5e9/asimxdev"/>
 
 </div>
 
 <!--
-OPTIONAL: Animated contribution snake
-1. Add the workflow from https://github.com/Platane/snk to .github/workflows/snake.yml
-2. Run it once, then uncomment the block below.
+OPTIONAL SNAKE: add .github/workflows/snake.yml (included), run it once from the Actions tab,
+then delete these comment markers.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/asimxdev/asimxdev/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asimxdev/asimxdev/output/github-snake-dark.svg">
+    <img alt="snake" src="https://raw.githubusercontent.com/asimxdev/asimxdev/output/github-snake.svg">
+  </picture>
 </div>
 -->
 
-<br/>
-
 ## 🎓 Education & Certifications
 
-- 🎓 **B.S. Computer Science** — University of FATA, FR-Kohat (2020 – 2024) · CGPA **3.86 / 4.00**
-- 📜 **Flutter Training** — ProTech Code Park (PTCP), Peshawar
-- 📜 **Certificate in IT (CIT)** — Web Graphics & Mobile App Development, NAVTTC, FATA University
-- 📜 **Diploma of Information Technology (DIT)** — ZEB Institute of IT, Peshawar
-
-<br/>
-
-## 🤝 Let's Connect
+- 🎓 **B.S. Computer Science**: University of FATA, FR-Kohat (2020 – 2024), CGPA **3.86 / 4.00**
+- 📜 **Flutter Training**: ProTech Code Park (PTCP), Peshawar
+- 📜 **Certificate in IT (CIT)**: Web Graphics & Mobile App Development, NAVTTC
+- 📜 **Diploma of Information Technology (DIT)**: ZEB Institute of IT, Peshawar
 
 <div align="center">
 
-I'm always open to discussing Flutter projects, collaborations, and new opportunities.
+## 🤝 Let's Connect
 
-<a href="mailto:asimxdev@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-asimxdev%40gmail.com-00d9ff?style=for-the-badge&logo=gmail&logoColor=white" alt="contact"/></a>
+Open to Flutter projects, collaborations and new opportunities.
 
-<br/><br/>
+<a href="mailto:asimxdev@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-asimxdev%40gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:0ea5e9&height=130&section=footer" width="100%"/>
 
 </div>
