@@ -45,7 +45,7 @@ class AsimKhan extends FlutterDeveloper {
 ```
 
 </td>
-<td width="48%" valign="top" align="center">
+<td width="48%" valign="top" align="left">
 
 <img src="https://img.shields.io/badge/FOCUS-Flutter_%26_Dart-0ea5e9?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1e293b"/><br/>
 <img src="https://img.shields.io/badge/BACKEND-Firebase_%C2%B7_Stripe-f59e0b?style=for-the-badge&logo=firebase&logoColor=white&labelColor=1e293b"/><br/>
