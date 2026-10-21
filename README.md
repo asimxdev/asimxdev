@@ -45,7 +45,7 @@ class AsimKhan extends FlutterDeveloper {
 ```
 
 </td>
-<td width="48%" valign="top" align="center">
+<td width="48%" valign="middle" align="left">
 
 <img src="https://img.shields.io/badge/FOCUS-Flutter_%26_Dart-0ea5e9?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1e293b"/><br/>
 <img src="https://img.shields.io/badge/BACKEND-Firebase_%C2%B7_Stripe-f59e0b?style=for-the-badge&logo=firebase&logoColor=white&labelColor=1e293b"/><br/>
@@ -107,7 +107,7 @@ class AsimKhan extends FlutterDeveloper {
 
 ## 🚀 Featured Projects
 
-<sub>Tap a button to open the app on Android, iOS or the web.</sub>
+<sub>Tap a button to open the app on Android or the web.</sub>
 
 <table>
 <tr>
@@ -116,23 +116,47 @@ class AsimKhan extends FlutterDeveloper {
 #### 🌍 TourVista
 AI travel app: landmark scanning, history, nearby places, maps, tour planning & AI chat.<br/><br/>
 <img src="https://img.shields.io/badge/AI-8b5cf6?style=flat-square"/> <img src="https://img.shields.io/badge/Maps-0ea5e9?style=flat-square"/><br/><br/>
-<a href="#TOURVISTA_ANDROID"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/></a> <a href="#TOURVISTA_IOS"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/></a> <a href="#TOURVISTA_WEB"><img src="https://img.shields.io/badge/Web-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Web"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.tourvistaapp&pcampaignid=web_share"><img src="https://img.shields.io/badge/Android_App-3DDC84?style=flat-square&logo=android&logoColor=black" alt="Android"/></a> <a href="https://www.tourvistaapp.com/"><img src="https://img.shields.io/badge/Live_Website-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Web"/></a>
+
+</td>
+<td width="33%" valign="top">
+
+#### 🕊️ Penitans
+Practitioners offer services, seekers accept offers and access them online.<br/><br/>
+<img src="https://img.shields.io/badge/Marketplace-8b5cf6?style=flat-square"/><br/><br/>
+<a href="https://play.google.com/store/apps/details?id=com.penitans.org&pcampaignid=web_share"><img src="https://img.shields.io/badge/Android_App-3DDC84?style=flat-square&logo=android&logoColor=black" alt="Android"/></a> <a href="https://penitans.com/"><img src="https://img.shields.io/badge/Live_Website-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Web"/></a>
 
 </td>
 <td width="33%" valign="top">
 
 #### 📸 Photos by Bugs
 Photo-selling app with Google Drive collections, watermarked previews & unlock-on-purchase.<br/><br/>
-<img src="https://img.shields.io/badge/Payments-635BFF?style=flat-square"/> <img src="https://img.shields.io/badge/Google_Drive-34A853?style=flat-square"/><br/><br/>
-<a href="#PHOTOSBYBUGS_ANDROID"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/></a> <a href="#PHOTOSBYBUGS_IOS"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/></a> <a href="#PHOTOSBYBUGS_WEB"><img src="https://img.shields.io/badge/Web-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Web"/></a>
+<img src="https://img.shields.io/badge/Payments-635BFF?style=flat-square"/> <img src="https://img.shields.io/badge/Google_Drive-34A853?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+#### 🧘 Wilmarwell
+Wellness app: skincare, massage therapy, fitness education & appointment booking.<br/><br/>
+<img src="https://img.shields.io/badge/Booking-0ea5e9?style=flat-square"/><br/><br/>
+<a href="https://play.google.com/store/apps/details?id=com.fsprogrammers.wilmarwell&pcampaignid=web_share"><img src="https://img.shields.io/badge/Android_App-3DDC84?style=flat-square&logo=android&logoColor=black" alt="Android"/></a>
+
+</td>
+<td width="33%" valign="top">
+
+#### 🔥 Khan LPG Gas
+Gas cylinder ordering with pickup, delivery and map-based order tracking.<br/><br/>
+<img src="https://img.shields.io/badge/Maps-0ea5e9?style=flat-square"/> <img src="https://img.shields.io/badge/Tracking-16a34a?style=flat-square"/><br/><br/>
+<a href="https://play.google.com/store/apps/details?id=com.khan.lpg&pcampaignid=web_share"><img src="https://img.shields.io/badge/Android_App-3DDC84?style=flat-square&logo=android&logoColor=black" alt="Android"/></a>
 
 </td>
 <td width="33%" valign="top">
 
 #### 💪 Musculo
 Fitness app (Flutter + Firebase) with user & creator roles, workout purchases and favorites.<br/><br/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square"/> <img src="https://img.shields.io/badge/Payments-635BFF?style=flat-square"/><br/><br/>
-<a href="#MUSCULO_ANDROID"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/></a> <a href="#MUSCULO_IOS"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/></a> <a href="#MUSCULO_WEB"><img src="https://img.shields.io/badge/Web-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Web"/></a>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square"/> <img src="https://img.shields.io/badge/Payments-635BFF?style=flat-square"/>
 
 </td>
 </tr>
@@ -141,50 +165,21 @@ Fitness app (Flutter + Firebase) with user & creator roles, workout purchases an
 
 #### 🤖 Riter AI
 OpenAI-powered generator for LinkedIn posts, proposals, blogs and Fiverr gigs.<br/><br/>
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square"/><br/><br/>
-<a href="#RITERAI_ANDROID"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/></a> <a href="#RITERAI_IOS"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/></a> <a href="#RITERAI_WEB"><img src="https://img.shields.io/badge/Web-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Web"/></a>
-
-</td>
-<td width="33%" valign="top">
-
-#### 🧘 Wilmarwell
-Wellness app: skincare, massage therapy, fitness education & appointment booking.<br/><br/>
-<img src="https://img.shields.io/badge/Booking-0ea5e9?style=flat-square"/><br/><br/>
-<a href="#WILMARWELL_ANDROID"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/></a> <a href="#WILMARWELL_IOS"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/></a> <a href="#WILMARWELL_WEB"><img src="https://img.shields.io/badge/Web-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Web"/></a>
-
-</td>
-<td width="33%" valign="top">
-
-#### 🔥 Khan LPG Gas
-Gas cylinder ordering with pickup, delivery and map-based order tracking.<br/><br/>
-<img src="https://img.shields.io/badge/Maps-0ea5e9?style=flat-square"/> <img src="https://img.shields.io/badge/Tracking-16a34a?style=flat-square"/><br/><br/>
-<a href="#KHANLPG_ANDROID"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/></a> <a href="#KHANLPG_IOS"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/></a> <a href="#KHANLPG_WEB"><img src="https://img.shields.io/badge/Web-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Web"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-#### 🕊️ Penitans
-Practitioners offer services, seekers accept offers and access them online.<br/><br/>
-<img src="https://img.shields.io/badge/Marketplace-8b5cf6?style=flat-square"/><br/><br/>
-<a href="#PENITANS_ANDROID"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/></a> <a href="#PENITANS_IOS"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/></a> <a href="#PENITANS_WEB"><img src="https://img.shields.io/badge/Web-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Web"/></a>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square"/>
 
 </td>
 <td width="33%" valign="top">
 
 #### 🕌 Allah Knows
 Women-focused Islamic wellness app for reflection, guidance and mindfulness.<br/><br/>
-<img src="https://img.shields.io/badge/Wellness-16a34a?style=flat-square"/><br/><br/>
-<a href="#ALLAHKNOWS_ANDROID"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/></a> <a href="#ALLAHKNOWS_IOS"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/></a> <a href="#ALLAHKNOWS_WEB"><img src="https://img.shields.io/badge/Web-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Web"/></a>
+<img src="https://img.shields.io/badge/Wellness-16a34a?style=flat-square"/>
 
 </td>
 <td width="33%" valign="top">
 
 #### 🙏 PrayPal
 Final-year project: improved UI and code maintainability via refactoring.<br/><br/>
-<img src="https://img.shields.io/badge/UI_%2B_Refactor-0ea5e9?style=flat-square"/><br/><br/>
-<a href="#PRAYPAL_ANDROID"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/></a> <a href="#PRAYPAL_IOS"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/></a> <a href="#PRAYPAL_WEB"><img src="https://img.shields.io/badge/Web-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Web"/></a>
+<img src="https://img.shields.io/badge/UI_%2B_Refactor-0ea5e9?style=flat-square"/>
 
 </td>
 </tr>
@@ -193,16 +188,14 @@ Final-year project: improved UI and code maintainability via refactoring.<br/><b
 
 #### ✈️ Jet Picks
 Travel-based delivery app connecting travelers with senders. *(UI design)*<br/><br/>
-<img src="https://img.shields.io/badge/UI%2FUX-FF4081?style=flat-square"/><br/><br/>
-<a href="#JETPICKS_ANDROID"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/></a> <a href="#JETPICKS_IOS"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/></a> <a href="#JETPICKS_WEB"><img src="https://img.shields.io/badge/Web-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Web"/></a>
+<img src="https://img.shields.io/badge/UI%2FUX-FF4081?style=flat-square"/>
 
 </td>
 <td width="33%" valign="top">
 
 #### 🛡️ Armor Up
 Gamified spiritual-support app with Bible-based and AI guidance. *(UI)*<br/><br/>
-<img src="https://img.shields.io/badge/Gamified-f59e0b?style=flat-square"/> <img src="https://img.shields.io/badge/AI-8b5cf6?style=flat-square"/><br/><br/>
-<a href="#ARMORUP_ANDROID"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/></a> <a href="#ARMORUP_IOS"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/></a> <a href="#ARMORUP_WEB"><img src="https://img.shields.io/badge/Web-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Web"/></a>
+<img src="https://img.shields.io/badge/Gamified-f59e0b?style=flat-square"/> <img src="https://img.shields.io/badge/AI-8b5cf6?style=flat-square"/>
 
 </td>
 <td width="33%" valign="top">
@@ -235,7 +228,7 @@ Explore my pinned repositories and open-source work.<br/><br/>
 - 🧪 QA testing, UI/UX consistency reviews and bug verification
 - 🤝 Collaborate with the team to deliver projects on time
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-009688?style=flat-square) ![QA](https://img.shields.io/badge/QA_Testing-16a34a?style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Stacked](https://img.shields.io/badge/Stacked-6C63FF?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![APIs](https://img.shields.io/badge/APIs-009688?style=flat-square) ![Debugging](https://img.shields.io/badge/Debugging-f59e0b?style=flat-square) ![QA](https://img.shields.io/badge/QA_Testing-16a34a?style=flat-square)
 
 </td>
 </tr>
@@ -256,7 +249,7 @@ Explore my pinned repositories and open-source work.<br/><br/>
 - 🐞 Resolved performance, bug and UI/UX issues
 - 🤝 Worked with developers to deliver apps on time
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![APIs](https://img.shields.io/badge/APIs-009688?style=flat-square) ![Debugging](https://img.shields.io/badge/Debugging-f59e0b?style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-6C63FF?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![APIs](https://img.shields.io/badge/APIs-009688?style=flat-square) ![Debugging](https://img.shields.io/badge/Debugging-f59e0b?style=flat-square)
 
 </td>
 </tr>
@@ -277,7 +270,7 @@ Explore my pinned repositories and open-source work.<br/><br/>
 - 🤖 Contributed to **Riter AI**, an AI content app using the OpenAI API
 - 🔧 Strengthened debugging and problem-solving through hands-on projects
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-6C63FF?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-6C63FF?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![APIs](https://img.shields.io/badge/APIs-009688?style=flat-square)
 
 </td>
 </tr>
