@@ -282,7 +282,7 @@ Check my pinned repositories for open-source work.<br/><br/>
 <br/><br/>
 
 <!-- Auto dark / light mode cards -->
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=asimxdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&rank_icon=github">
   <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=asimxdev&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
 </picture>
@@ -291,7 +291,7 @@ Check my pinned repositories for open-source work.<br/><br/>
   <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimxdev&layout=compact&theme=default&hide_border=true&langs_count=8"/>
 </picture>
 
-<br/> -->
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=asimxdev&theme=tokyonight&hide_border=true&background=0D1117">
@@ -300,7 +300,7 @@ Check my pinned repositories for open-source work.<br/><br/>
 
 <br/>
 
-<img alt="Contribution chart" width="100%" src="https://ghchart.rshah.org/0ea5e9/asimxdev"/>
+<!-- <img alt="Contribution chart" width="100%" src="https://ghchart.rshah.org/0ea5e9/asimxdev"/> -->
 
 </div>
 
