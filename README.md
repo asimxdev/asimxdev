@@ -9,14 +9,13 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/2%2B%20Years-Experience-8b5cf6?style=for-the-badge"/>
 
-<br/><br/>
+<br/>
 
 <a href="mailto:asimxdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/asim-khan-46b067286/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://asim-portfolio1-indol.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 <a href="https://github.com/asimxdev"><img src="https://img.shields.io/github/followers/asimxdev?label=Followers&style=flat-square&logo=github&color=181717"/></a>
 <img src="https://komarev.com/ghpvc/?username=asimxdev&label=Views&color=6366f1&style=flat-square"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:8b5cf6&height=2" width="100%"/>
