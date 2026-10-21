@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=240&section=header&text=Asim%20Khan&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Flutter%20Developer%20%E2%80%A2%20Cross-Platform%20Mobile%20Apps&descAlignY=58&descSize=18" width="100%" alt="Asim Khan"/>
 
-<!-- Profile photo: uses your GitHub avatar automatically (circular). -->
-<img src="https://wsrv.nl/?url=https://github.com/asimxdev.png&w=170&h=170&fit=cover&mask=circle" width="150" alt="Asim Khan"/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Hi+%F0%9F%91%8B+I'm+Asim+Khan;Flutter+%26+Dart+Developer+%F0%9F%93%B1;Firebase+%7C+BLoC+%7C+Stacked+Architecture;Real-time+Calling+%26+Payments+%F0%9F%92%B3;Let's+build+something+great+%F0%9F%9A%80" alt="typing"/>
 </a>
@@ -32,7 +29,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
 ```dart
 class AsimKhan extends FlutterDeveloper {
@@ -48,14 +45,15 @@ class AsimKhan extends FlutterDeveloper {
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="48%" valign="top" align="center">
 
-🔭 Building cross-platform apps with **Flutter & Dart**<br/>
-⚡ **Firebase**, **Stripe**, **BLoC**, **Stacked**<br/>
-📡 **WebSockets**, **audio / video calling**<br/>
-🧪 Debugging, QA & performance tuning<br/>
-🎓 B.S. CS — **CGPA 3.86 / 4.00**<br/>
-📫 Open to new opportunities
+<img src="https://img.shields.io/badge/FOCUS-Flutter_%26_Dart-0ea5e9?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1e293b"/><br/>
+<img src="https://img.shields.io/badge/BACKEND-Firebase_%C2%B7_Stripe-f59e0b?style=for-the-badge&logo=firebase&logoColor=white&labelColor=1e293b"/><br/>
+<img src="https://img.shields.io/badge/ARCHITECTURE-BLoC_%C2%B7_Stacked-6366f1?style=for-the-badge&logoColor=white&labelColor=1e293b"/><br/>
+<img src="https://img.shields.io/badge/REAL--TIME-WebSockets_%C2%B7_Calls-8b5cf6?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=1e293b"/><br/>
+<img src="https://img.shields.io/badge/QUALITY-Debug_%C2%B7_QA_%C2%B7_Perf-16a34a?style=for-the-badge&labelColor=1e293b"/><br/>
+<img src="https://img.shields.io/badge/CGPA-3.86_%2F_4.00-ec4899?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1e293b"/><br/>
+<img src="https://img.shields.io/badge/STATUS-Open_to_Opportunities-10b981?style=for-the-badge&labelColor=1e293b"/>
 
 </td>
 </tr>
@@ -207,11 +205,71 @@ Check my pinned repositories for open-source work.<br/><br/>
 
 ## 💼 Experience
 
-| 📅 Period | 💻 Role | 🏢 Company |
-|:--|:--|:--|
-| **Dec 2025 – Present** | Flutter Developer | Apptex Software Solutions |
-| **Apr 2025 – Dec 2025** | Flutter Developer | FS Programmers |
-| **Jan 2024 – Apr 2025** | Flutter Trainee | ProTech Code Park (PTCP) |
+<table>
+<tr>
+<td width="23%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/DEC_2025_%E2%80%94_NOW-0ea5e9?style=for-the-badge"/><br/>
+<img src="https://img.shields.io/badge/%E2%97%8F_CURRENT-10b981?style=flat-square"/>
+
+</td>
+<td width="77%" valign="top">
+
+### 🚀 Flutter Developer
+**Apptex Software Solutions** · Pakistan
+
+- 📱 Build and maintain responsive cross-platform apps with Flutter
+- 🔌 Integrate REST APIs and third-party services
+- 🧪 QA testing, UI/UX consistency reviews and bug verification
+- 🤝 Collaborate with the team to deliver projects on time
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-009688?style=flat-square) ![QA](https://img.shields.io/badge/QA_Testing-16a34a?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="23%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/APR_%E2%80%94_DEC_2025-6366f1?style=for-the-badge"/><br/>
+<img src="https://img.shields.io/badge/FULL--TIME-64748b?style=flat-square"/>
+
+</td>
+<td width="77%" valign="top">
+
+### 💻 Flutter Developer
+**FS Programmers** · Pakistan
+
+- 📱 Developed and maintained cross-platform apps with Flutter
+- 🔌 Integrated APIs and third-party services
+- 🐞 Resolved performance, bug and UI/UX issues
+- 🤝 Worked with developers to deliver apps on time
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![APIs](https://img.shields.io/badge/APIs-009688?style=flat-square) ![Debugging](https://img.shields.io/badge/Debugging-f59e0b?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="23%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/JAN_2024_%E2%80%94_APR_2025-8b5cf6?style=for-the-badge"/><br/>
+<img src="https://img.shields.io/badge/TRAINEE-64748b?style=flat-square"/>
+
+</td>
+<td width="77%" valign="top">
+
+### 🌱 Flutter Trainee
+**ProTech Code Park (PTCP)** · Pakistan
+
+- 🧩 Assisted in building Flutter apps under senior developers
+- 📚 Practiced Dart, Provider, reusable widgets, REST APIs and Firebase
+- 🤖 Contributed to **Riter AI**, an AI content app using the OpenAI API
+- 🔧 Strengthened debugging and problem-solving through hands-on projects
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-6C63FF?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Stats
 
@@ -246,10 +304,6 @@ Check my pinned repositories for open-source work.<br/><br/>
 
 </div>
 
-
-OPTIONAL SNAKE: add .github/workflows/snake.yml (included), run it once from the Actions tab,
-then delete these comment markers.
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asimxdev/asimxdev/output/github-snake-dark.svg">
@@ -257,13 +311,51 @@ then delete these comment markers.
   </picture>
 </div>
 
-
 ## 🎓 Education & Certifications
 
-- 🎓 **B.S. Computer Science**: University of FATA, FR-Kohat (2020 – 2024), CGPA **3.86 / 4.00**
-- 📜 **Flutter Training**: ProTech Code Park (PTCP), Peshawar
-- 📜 **Certificate in IT (CIT)**: Web Graphics & Mobile App Development, NAVTTC
-- 📜 **Diploma of Information Technology (DIT)**: ZEB Institute of IT, Peshawar
+<table>
+<tr>
+<td width="12%" align="center" valign="middle">
+
+# 🎓
+
+</td>
+<td width="88%" valign="top">
+
+### Bachelor of Science in Computer Science
+**University of FATA**, FR-Kohat, Pakistan
+
+<img src="https://img.shields.io/badge/2020_%E2%80%94_2024-0ea5e9?style=for-the-badge"/> <img src="https://img.shields.io/badge/CGPA-3.86_%2F_4.00-10b981?style=for-the-badge&labelColor=1e293b"/>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 📜 Flutter Training
+**ProTech Code Park (PTCP)**<br/>Peshawar, Pakistan<br/><br/>
+<img src="https://img.shields.io/badge/TRAINING-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 📜 Certificate in IT (CIT)
+**Web Graphics & Mobile App Development**<br/>NAVTTC, FATA University, FR-Kohat<br/><br/>
+<img src="https://img.shields.io/badge/CERTIFICATE-8b5cf6?style=flat-square"/>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 📜 Diploma in IT (DIT)
+**Diploma of Information Technology**<br/>ZEB Institute of IT, Mattani, Peshawar<br/><br/>
+<img src="https://img.shields.io/badge/DIPLOMA-f59e0b?style=flat-square"/>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
